@@ -4,3 +4,10 @@
   background-image: url("../menu.svg");
   display: inline-block;
 }
+.cabeçalho {
+  background-color: var(--branco);
+  display: flex;
+justify-content: space-between;
+align-items: center;
+  }
+  
